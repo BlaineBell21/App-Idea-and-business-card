@@ -30,6 +30,7 @@ public class Main {
 
 
         System.out.println("App: " + appIdea);
+
         System.out.println("Problem: " + problem);
         System.out.println("================================================");
         System.out.println("                MY BUSINESS CARD                ");
